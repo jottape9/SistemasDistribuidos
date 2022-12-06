@@ -23,5 +23,5 @@ Compilador Linguagem Própria
   
   ## Linguagens usadas.
   <table>
-    Java
+    Python
   <table>
